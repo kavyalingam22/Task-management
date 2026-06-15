@@ -29,24 +29,17 @@ Task Management/
 └── README.md
 ```
 
-## Installation
+## Requirements
 
-1. Clone the repository:
+- Python 3.x
+- Pandas
+- Scikit-learn
 
-```bash
-git clone <repository-url>
-```
-
-2. Navigate to the project folder:
-
-```bash
-cd Task-Management
-```
-
-3. Install required packages:
+Install dependencies:
 
 ```bash
 pip install pandas scikit-learn
+```
 ```
 
 ## Running the Application
